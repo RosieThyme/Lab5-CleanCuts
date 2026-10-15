@@ -1,16 +1,9 @@
-/*
-* Developer: Anon
-* NOTE:
+/* 
 * Date: 09/10/2026
-* Description:
 * TODO:
 * Log:
 *	   10/10/2026 - added insert Node Function
 *	   00/00/00 -
-* 	   00/00/00 -
-*	   00/00/00 -
-*	   00/00/00 -
-* 	   00/00/00 -
 */
 
 #include "binarySearchTree.h"
